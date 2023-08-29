@@ -31,3 +31,23 @@ img {
 label {
     margin-top: 10%;
 }
+
+.vol {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 5%;
+}
+
+input {
+    margin-left: 1%;
+    width: 10%;
+    height: 10%;
+    padding: 0.1%;
+}
+
+label[for="vol"] {
+    margin-top: 0;
+}
