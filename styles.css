@@ -1,0 +1,21 @@
+img {
+    width: 20%;
+    height: 20%;
+}
+
+body {
+    background-color: bisque;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.kit {
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
